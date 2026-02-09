@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 🙋‍♂️
 
-<!--
-**Ankit07-yadav/Ankit07-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ankit
 
-Here are some ideas to get you started:
+🎓 Student | 💻 C & Python Programmer | 🚀 Learning DSA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**##ABOUT ME** 
+- 🌱 Currently learning **C, Python, and Data Structures**
+- 🔍 Interested in **problem solving & software development**
+- 📚 Practicing coding problems regularly
+- 🎯 Goal: Become a skilled software engineer
+
+----
+
+## 🛠️ Skills  
+- **Languages:** C, Python  
+- **Concepts:** Arrays, Pointers, Loops, Functions  
+- **Tools:** Git, GitHub, VS Code
+  
+**FUN FACTS**
+• Attack on Titan is my favourite anime.
+• I like coffee.
+• Hobbies - anime, gym, music, building things.
